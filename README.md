@@ -8,11 +8,13 @@ Computer Science (AI) undergraduate at Adi Shankara Institute of Engineering and
 
 ## 🚀 About Me
 
-- Developed machine learning pipelines, RAG systems, and multi-model AI applications
-- Worked on data processing, model development, deployment workflows, and cloud deployment
-- Participated in hackathons and project-driven software development
-- Continuously improving through hands-on implementation and independent projects
-
+- 🎓 B.Tech Computer Science (AI) @ Adi Shankara Institute of Engineering and Technology (Class of 2027)
+- 🤖 Building Machine Learning systems and AI applications
+- 🛡️ Developed phishing detection, RAG, and multi-model AI projects
+- ☁️ Experience deploying applications on Google Cloud Platform
+- 🏆 Participated in multiple hackathons and project-driven development
+- 🐍 Working primarily with Python and AI/ML technologies
+- 📚 Exploring ML Engineering, MLOps, and scalable AI systems
 ---
 
 ## 📂 Featured Projects
