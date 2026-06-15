@@ -17,14 +17,17 @@ Computer Science (AI) undergraduate at Adi Shankara Institute of Engineering and
 
 ## 📂 Featured Projects
 
-### 🛡️ Network Security ML Pipeline
-Phishing website detection system with automated validation, transformation, MongoDB integration, and deployment workflows.
+🛡️ Network Security ML Pipeline
 
-### 🔍 RAG AI System
-Retrieval-Augmented Generation system that converts educational videos into a searchable knowledge base.
+Developed a phishing website detection system capable of processing raw data through automated validation and transformation pipelines. Integrated MongoDB for data storage and implemented deployment workflows using cloud technologies. Designed the project following MLOps principles to support scalable model deployment and maintenance.
 
-### 🧠 OrchestrateX
-Multi-model AI platform that improves response quality through critique-and-refinement workflows.
+🔍 RAG AI System
+
+Built a Retrieval-Augmented Generation (RAG) application that converts educational videos into a searchable knowledge base. Implemented transcript extraction, chunking, embeddings, semantic search, and LLM-powered answer generation with timestamp-aware video references. Designed to improve information retrieval from long-form educational content.
+
+🧠 OrchestrateX
+
+Developed a multi-model AI platform that routes user queries to the most suitable language model based on task requirements. Integrated multiple LLMs including GPT-OSS, Llama, Qwen, DeepSeek, Kimi, and GLM. Implemented critique-and-refinement workflows to improve response quality through cross-model evaluation and feedback.
 
 ---
 
