@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sahil
 
-## 🤖 AI/ML Developer
+## 🤖 Aspiring AI/ML 
 
 Computer Science (AI) undergraduate at Adi Shankara Institute of Engineering and Technology, building machine learning systems and AI applications.
 
