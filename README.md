@@ -10,7 +10,6 @@ Computer Science (AI) undergraduate at Adi Shankara Institute of Engineering and
 
 - 🎓 B.Tech Computer Science (AI) @ Adi Shankara Institute of Engineering and Technology (Class of 2027)
 - 🤖 Building Machine Learning systems and AI applications
-- 🛡️ Developed phishing detection, RAG, and multi-model AI projects
 - ☁️ Experience deploying applications on Google Cloud Platform
 - 🏆 Participated in multiple hackathons and project-driven development
 - 🐍 Working primarily with Python and AI/ML technologies
