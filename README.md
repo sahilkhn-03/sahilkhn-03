@@ -1,38 +1,35 @@
-# Hi, I'm Sahil 👋
+Hi, I'm Sahil
 
-Computer Science (AI) undergraduate building Machine Learning and AI applications through academic projects, hackathons, and independent development.
+Computer Science (AI) undergraduate at Adi Shankara Institute of Engineering and Technology, currently maintaining a CGPA of 7.91/10, building machine learning systems and AI applications.
 
-## About Me
-- Interested in Machine Learning Engineering and AI Systems
-- Building end-to-end ML and LLM-powered applications
-- Exploring deployment, cloud platforms, and scalable AI workflows
-- Active participant in hackathons and project-based learning
+About Me
 
-## Projects
+- Developed machine learning pipelines, RAG systems, and multi-model AI applications
+- Experience with data processing, model development, deployment workflows, and cloud-based deployment
+- Participated in multiple hackathons and project-driven software development
+- Continuously improving skills through hands-on implementation and independent projects
 
-### Network Security ML Pipeline
-Phishing website detection system with automated data validation, transformation, and deployment workflows.
+Featured Projects
 
-### RAG AI System
-Retrieval-Augmented Generation system for converting educational videos into a searchable knowledge base.
+Network Security ML Pipeline
 
-### OrchestrateX
-Multi-model AI platform that routes queries across multiple LLMs and improves responses through critique-and-refinement workflows.
+Phishing website detection system with automated data validation, transformation, MongoDB integration, and deployment workflows.
 
-## Skills
-- Python
-- Machine Learning
-- Git & GitHub
-- Google Cloud Platform
-- LLM Applications
+RAG AI System
 
-## Currently Learning
-- ML Engineering
-- MLOps
-- Scalable AI Systems
+Retrieval-Augmented Generation system that converts educational videos into a searchable knowledge base using embeddings and semantic search.
 
-## Connect
-- Email: sahilkhk001@gmail.com
+OrchestrateX
+
+Multi-model AI platform that routes queries across multiple LLMs and improves response quality through critique-and-refinement workflows.
+
+Technical Skills
+
+Python • Machine Learning • Git & GitHub • Google Cloud Platform • LLM Applications
+
+Contact
+
+Email: "sahilkhk001@gmail.com" (mailto:sahilkhk001@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/sahil-ㅤ-3552b3290?utm_source=share_via&utm_content=profile&utm_medium=member_android
 <!--
 **sahilkhn-03/sahilkhn-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
