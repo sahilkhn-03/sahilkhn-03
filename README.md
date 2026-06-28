@@ -3,7 +3,7 @@
 ## 🤖 Aspiring AI/ML Engineer
 
 Computer Science (AI) undergraduate at Adi Shankara Institute of Engineering and Technology, building machine learning systems and AI applications.
-Visit : https://portfolio-psi-one-3tojz9vq4y.vercel.app/
+Visit : https://sahilkhn.vercel.app/
 
 ---
 
